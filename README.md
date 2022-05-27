@@ -1,3 +1,3 @@
 # another-repo-b
 
-Added for new-branch-1
+Added for new-branch-2
